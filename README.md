@@ -31,7 +31,7 @@ $ source env/bin/activate
 $ pip3 install -r requirements.txt
 ```
 
-###Set the OpenAI API key as an environment variable:
+### Set the OpenAI API key as an environment variable:
 
 ```bash
 $ export OPENAI_API_KEY=<your-api-key>
