@@ -4,3 +4,4 @@ flagged/*
 !flagged/.gitkeep
 env
 .DS_Store
+__pycache__

@@ -39,10 +39,12 @@ $ export OPENAI_API_KEY=<your-api-key>
 
 ## Usage
 
-### Load files to train the model by adding them to the `data` folder located in the root of the project.
+Load files to train the model by adding them to the `data` folder located in the root of the project.
 
-### Run the `localgpt.py` script:
+Then run the following command:
 
 ```bash
 $ python3 localgpt.py
 ```
+
+This will train the model and start the chatbot interface.
